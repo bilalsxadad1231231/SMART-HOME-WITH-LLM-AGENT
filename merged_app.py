@@ -12,7 +12,7 @@ class SmartHomeController:
     def __init__(self, 
                  serial_port='COM5', 
                  baud_rate=9600, 
-                 hf_api_key="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"):
+                 hf_api_key="YOUR HUGGING FACE API KEY"):
         """
         Initialize Smart Home Controller with serial and HuggingFace client
         """
