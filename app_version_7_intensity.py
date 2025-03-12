@@ -18,7 +18,7 @@ class SmartHomeController:
     def __init__(self, 
                  serial_port='COM5', 
                  baud_rate=9600, 
-                 groq_api_key="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"):
+                 groq_api_key="your groq api key here"):
         """
         Initialize Smart Home Controller with serial and Langchain components
         """
